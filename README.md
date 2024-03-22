@@ -1,4 +1,4 @@
-# neovim-config-powershell
+# Powershell config
 Below are the steps to add theme, autocomplete and other features to Windows Powershell
 <br>
 <br>
